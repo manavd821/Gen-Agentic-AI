@@ -1,0 +1,1 @@
+This project generates a brochure for a company to be used for prospective clients, investors and potential recruits using Gemini API and Streamlit.rel
