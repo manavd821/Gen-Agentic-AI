@@ -1,0 +1,1 @@
+This is a simple AI tutor built using the Google Gemini API.

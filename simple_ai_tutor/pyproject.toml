@@ -1,0 +1,11 @@
+[project]
+name = "simple_ai_tutor"
+version = "0.1.0"
+description = "A simple AI tutor built using the Google Gemini API."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-genai>=1.43.0",
+    "ipykernel>=6.30.1",
+    "python-decouple>=3.8",
+]
