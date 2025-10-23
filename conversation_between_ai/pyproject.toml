@@ -1,0 +1,13 @@
+[project]
+name = "conversation_between_ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.0.1",
+    "openai>=2.5.0",
+    "python-decouple>=3.8",
+    "sarvamai>=0.1.21",
+    "streamlit>=1.50.0",
+]
