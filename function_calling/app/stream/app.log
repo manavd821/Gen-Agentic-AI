@@ -1,0 +1,4 @@
+2025-10-24 15:58:41,643 - mylogger - DEBUG 2739281507.py:get_ticket_price:12 - Retrieved price for London: $799
+2025-10-24 15:59:00,843 - mylogger - DEBUG 2739281507.py:get_ticket_price:12 - Retrieved price for London: $799
+2025-10-24 16:24:03,785 - mylogger - DEBUG 2739281507.py:get_ticket_price:12 - Retrieved price for London: $799
+2025-10-24 16:24:19,479 - mylogger - DEBUG 2739281507.py:get_ticket_price:12 - Retrieved price for London: $799

@@ -1,0 +1,15 @@
+[project]
+name = "function-calling"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-genai>=1.46.0",
+    "gradio>=5.49.1",
+    "ipykernel>=7.0.1",
+    "openai>=2.6.0",
+    "pydantic>=2.11.10",
+    "python-decouple>=3.8",
+    "sarvamai>=0.1.21",
+]
